@@ -1,5 +1,14 @@
 # License Plate Recognition (LPR) and Verification System using YOLOv8 and EasyOCR
 
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00D4AA?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![EasyOCR](https://img.shields.io/badge/EasyOCR-Text%20Recognition-FF6B6B?style=for-the-badge)](https://github.com/JaidedAI/EasyOCR)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![License](https://img.shields.io/badge/License-Educational%20Use-green?style=for-the-badge)](#license)
+
+---
+An end-to-end AI-based system for automatic vehicle license plate detection, recognition, and verification from video feeds. This project combines the power of YOLOv8, EasyOCR, and OpenCV to offer a scalable solution for intelligent traffic monitoring and smart law enforcement systems.
 ---
 #### An end-to-end AI-based system for automatic vehicle license plate detection, recognition, and verification from video feeds. This project combines the power of **YOLOv8**, **EasyOCR**, and **OpenCV** to offer a scalable solution for intelligent traffic monitoring and smart law enforcement systems.
 ---
