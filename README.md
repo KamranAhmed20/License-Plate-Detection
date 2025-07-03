@@ -115,11 +115,9 @@ Our **research paper** provides a detailed breakdown of this system’s performa
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- **Hassan Bin Saqib** – [Email](mailto:hassanbinsaqib01@gmail.com)  
-- **Awais Khan** – [Email](mailto:awais0swati121@gmail.com)  
-- Air University Islamabad
+- **Kamran Ahmed** – [Email](mailto:kamranahmed7602@gmail.com) 
 
 ---
 
